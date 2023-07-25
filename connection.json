@@ -1,9 +1,9 @@
 {
-  "account"   : "",
-  "user"      : "",
-  "password"  : "",
-  "role"      : "",
-  "warehouse" : "",
-  "database"  : "",
-  "schema"    : ""
+  "account"   : "rz83214.ca-central-1.aws",
+  "user"      : "HAISSAOUI",
+  "password"  : "JV5999*2021",
+  "role"      : "ACCOUNTADMIN",
+  "warehouse" : "DASH_L",
+  "database"  : "DASH_DB",
+  "schema"    : "DASH_SCHEMA"
 }
